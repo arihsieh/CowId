@@ -131,6 +131,10 @@ dmypy.json
 
 # Custom ignores
 /raw_data
+/data
 .mp4
 .jpg
 .DS_Store
+/toframe_todos
+/videos_todos
+/siamese/
